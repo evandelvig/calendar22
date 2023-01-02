@@ -11,6 +11,7 @@ function leapYear(year) {
 	}
 
 	return false;
+	return false
 }
 
 // console.log(leapYear(0));
