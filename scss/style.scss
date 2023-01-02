@@ -1,0 +1,12 @@
+body {
+	color: black;
+	font-family: sans-serif;
+	background-color: lightyellow;
+	.main-header {
+		&__main-title {
+			color: red;
+			font-weight: bold;
+			color: rgb(45, 39, 39);
+		}
+	}
+}
